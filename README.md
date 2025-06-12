@@ -1,2 +1,2 @@
 # ImageAnalyzer
-Little help in Computer Vision projects. If you have many picture from a one-colour object, you can give them to this code, and it will analyze them and return with lot of values (etc. RGB range, HSV range), which help you what to filter on your original photo/video to find your object with a better probability.
+If you have many pictures of a single-colour object, you can pass them to this program. It analyzes them and returns a lot of values (RGB range, HSV range, etc.) which help you filter your original photo or video to find the object more reliably.
